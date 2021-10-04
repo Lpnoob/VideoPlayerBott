@@ -14,7 +14,7 @@ HELP_TEXT = f"""
 ⚔️-- **Available Commands**:--
 
 \u2022 `/play` - Stream An Audio
-\u2022 `/stream` - Stream An Video
+\u2022 `/stream` - Stream An Video no porn 
 \u2022 `/pause` - Pause Current Stream
 \u2022 `/resume` - Resume Paused Stream
 \u2022 `/endstream` - End Stream & Left VC
